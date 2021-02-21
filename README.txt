@@ -1,7 +1,6 @@
 %%  All the materials available in this document is to reproduce the results published in the following paper:
 % 
-%   S. Chatterjee, A. M. Javid, M. Sadeghi, S. Kikuta, P. P. Mitra, M. Skoglund, 
-%   "SSFN: Low Complexity Self Size-estimating Feed-forward Neural Network using Layer-wise Convex Optimization", 2019
+%   A. M. Javid, X. Liang, M. Skoglund, S. Chatterjee, ``Adaptive Learning without Forgetting via Low-Complexity Convex Networks," European Signal Processing Conference (EUSIPCO), 2020.
 % 
 %%  The codes is organized as follows:
 % 
